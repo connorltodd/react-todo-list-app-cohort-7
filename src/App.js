@@ -5,8 +5,9 @@ import './App.css';
 // APP
 // |
 // TodoList -- (data of todos)
-// |
-// Todo
+
+// |         |
+// Todo      CreateTodoForm
 
 function App() {
   return (
